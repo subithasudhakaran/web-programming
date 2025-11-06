@@ -1,0 +1,52 @@
+ <html>
+ <head>
+ <style>
+ h1{
+ color: lightcoral;
+ margin-left: 30px; 
+ font-family:arial;
+ font-style:italic;
+ text-align:center; }
+ p{
+ color:darkgreen;
+ margin-left: 30px;
+ font-family:arial;
+ font-style:italic; }
+ body{
+ background-color:#e0d4e7; }
+ ol{
+ color:white;
+ font-family:arial;
+ font-style:italic;
+ list-style-type:lower-roman;
+ margin-left:30px; }
+   table { 
+   border-collapse: collapse; 
+   width: 30%; }
+   th,td { 
+   border: 1px solid #ddd; 
+   padding: 8px; 
+   text-align: left; } 
+   th { 
+   background-color: purple; 
+   color: white; } 
+   tr:nth-child(even) {   table { 
+   border-collapse: collapse; 
+   width: 30%; }
+   th,td { 
+   border: 1px solid #ddd; 
+   padding: 8px; 
+   text-align: left; } 
+   th { 
+   background-color: purple; 
+   color: white; } 
+   tr:nth-child(even) { 
+   background-color: #f2f2f2; }
+   tr:hover { 
+   background-color: #ddd;}
+   background-color: #f2f2f2; }
+   tr:hover { 
+   background-color: #ddd;}
+ </style>
+ </head>
+ </html>
